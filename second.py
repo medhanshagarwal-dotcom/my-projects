@@ -1,0 +1,6 @@
+print("hi there!")
+name=input("enter your name:")
+print("your name is", name)
+print("5")
+print("hello", 5)
+print("welcome", end="*")
